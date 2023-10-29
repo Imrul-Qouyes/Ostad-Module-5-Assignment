@@ -1,0 +1,38 @@
+{
+    "abdullah-asad@gmail.com": {
+        "username": "Abdullah Asad",
+        "password": "asad@123",
+        "email": "abdullah-asad@gmail.com",
+        "role": "admin"
+    },
+    "abdur-razzak@gmail.com": {
+        "username": "Abdur Razzak",
+        "password": "razzak@123",
+        "email": "abdur-razzak@gmail.com",
+        "role": "manager"
+    },
+    "zakaria123@gmail.com": {
+        "username": "M. Zakaria",
+        "password": "zakaria@123",
+        "email": "zakaria123@gmail.com",
+        "role": "manager"
+    },
+    "amir345@gmail.com": {
+        "username": "M. Amir Ali",
+        "password": "amir@123",
+        "email": "amir345@gmail.com",
+        "role": "user"
+    },
+    "hasnat123@gmail.com": {
+        "username": "Hasnat Ali",
+        "password": "hasnat@123",
+        "email": "hasnat123@gmail.com",
+        "role": "user"
+    },
+    "shahid123@gmail.com": {
+        "username": "M. Shahid Alam",
+        "password": "shahid@123",
+        "email": "shahid123@gmail.com",
+        "role": ""
+    }
+}
